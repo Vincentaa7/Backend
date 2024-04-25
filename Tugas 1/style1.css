@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+input[type=text], input[type=sumbit]{
+    margin: 5px 0;
+}
+
+table {
+    width: 20%;
+    justify-content: center;
+    margin: 0px 40% 0px ;
+}
+
+table a {
+    text-decoration: none;
+    color: black;
+}
+table a:hover{
+    /* background-color: #6a6a6a; */
+     color: #505bff;
+}
+
+table,tr,th,td{
+    border: 1px solid black;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+}
+
+ 
